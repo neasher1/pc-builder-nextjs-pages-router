@@ -1,0 +1,670 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-500x500.jpg",
+          "productName": "AMD Ryzen 5 5600X",
+          "category": "Processor",
+          "price": 299.99,
+          "status": "In Stock",
+          "rating": 4.6,
+          "description": "The AMD Ryzen 5 5600X is a powerful processor that offers exceptional performance for gaming and multitasking. With 6 cores and 12 threads, a base clock of 3.7 GHz and a boost clock of 4.6 GHz, this CPU delivers incredible speed and responsiveness. It's built on the AM4 socket and features a TDP of 65W, making it energy-efficient as well. Whether you're a hardcore gamer or a content creator, the Ryzen 5 5600X won't disappoint.",
+          "keyFeatures": {
+            "Brand": "AMD",
+            "Model": "Ryzen 5 5600X",
+            "Socket": "AM4",
+            "Cores": "6",
+            "Threads": "12",
+            "BaseClock": "3.7 GHz",
+            "BoostClock": "4.6 GHz",
+            "TDP": "65W"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "User123",
+              "rating": 5,
+              "comment": "Great processor! Performs really well in games."
+            },
+            {
+              "username": "TechGuru",
+              "rating": 4.5,
+              "comment": "The Ryzen 5 5600X is a beast. Handles multitasking with ease."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "image": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/corsair/icue-elite-cpu-cooler-lcd-display-white/icue-elite-cpu-cooler-lcd-display-white-01-500x500.webp",
+          "productName": "Intel Core i7-11700K",
+          "category": "Processor",
+          "price": 349.99,
+          "status": "In Stock",
+          "rating": 4.7,
+          "description": "The Intel Core i7-11700K is a high-performance processor with 8 cores and 16 threads, making it perfect for gaming and heavy multitasking. It offers a base clock of 3.6 GHz and a boost clock of 5.0 GHz, delivering exceptional speed and responsiveness. With support for PCIe 4.0 and DDR4-3200 memory, this CPU is ready for the latest technologies. If you're looking for top-tier performance from Intel, the Core i7-11700K is an excellent choice.",
+          "keyFeatures": {
+            "Brand": "Intel",
+            "Model": "Core i7-11700K",
+            "Socket": "LGA1200",
+            "Cores": "8",
+            "Threads": "16",
+            "BaseClock": "3.6 GHz",
+            "BoostClock": "5.0 GHz",
+            "TDP": "125W"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "GamingPro123",
+              "rating": 4.8,
+              "comment": "Solid processor for both gaming and productivity tasks."
+            },
+            {
+              "username": "TechEnthusiast456",
+              "rating": 4.6,
+              "comment": "The i7-11700K performs exceptionally well in demanding applications."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "image": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/antec/frigusair-400-argb/frigusair-400-argb-01-500x500.jpg",
+          "productName": "AMD Ryzen 9 5900X",
+          "category": "Processor",
+          "price": 479.99,
+          "status": "In Stock",
+          "rating": 4.9,
+          "description": "The AMD Ryzen 9 5900X is a flagship processor designed for content creators and hardcore gamers. With 12 cores and 24 threads, it can handle the most demanding workloads with ease. It offers a base clock of 3.7 GHz and a boost clock of 4.8 GHz, making it incredibly fast and efficient. The Ryzen 9 5900X also comes with PCIe 4.0 support and a TDP of 105W. If you want top-tier performance from AMD, the Ryzen 9 5900X won't disappoint.",
+          "keyFeatures": {
+            "Brand": "AMD",
+            "Model": "Ryzen 9 5900X",
+            "Socket": "AM4",
+            "Cores": "12",
+            "Threads": "24",
+            "BaseClock": "3.7 GHz",
+            "BoostClock": "4.8 GHz",
+            "TDP": "105W"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.9,
+          "reviews": [
+            {
+              "username": "ContentCreator789",
+              "rating": 5,
+              "comment": "The Ryzen 9 5900X is a beast. It's a game-changer for my workflow."
+            },
+            {
+              "username": "GamerX456",
+              "rating": 4.9,
+              "comment": "This CPU crushes everything I throw at it. Impressive performance."
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/Gigabyte%20GA-H110M%20S2PH-DDR4-500x500.jpg",
+          "productName": "ASUS ROG Strix Z590-E",
+          "category": "Motherboard",
+          "price": 299.99,
+          "status": "In Stock",
+          "rating": 4.7,
+          "description": "The ASUS ROG Strix Z590-E is a high-end motherboard designed for gamers and enthusiasts. It supports Intel's latest 11th and 10th Gen Core processors and offers excellent performance and stability. With features like PCIe 4.0 support, robust power delivery, and advanced cooling options, this motherboard is perfect for overclocking and pushing your system to the limit. It also comes with RGB lighting and offers extensive customization options for a stunning build.",
+          "keyFeatures": {
+            "Brand": "ASUS",
+            "Model": "ROG Strix Z590-E",
+            "Chipset": "Intel Z590",
+            "MemorySlots": "4",
+            "MaxMemory": "128GB",
+            "PCIeSlots": "3 x16, 3 x1",
+            "USBPorts": "USB 3.2 Gen 2, USB 3.2 Gen 1, USB 2.0"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "GamerX",
+              "rating": 5,
+              "comment": "An amazing motherboard for gaming and overclocking."
+            },
+            {
+              "username": "TechMaster",
+              "rating": 4.8,
+              "comment": "The ASUS ROG Strix Z590-E is feature-packed and looks stunning."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-500x500.jpg",
+          "productName": "GIGABYTE B560 AORUS PRO AX",
+          "category": "Motherboard",
+          "price": 189.99,
+          "status": "In Stock",
+          "rating": 4.6,
+          "description": "The GIGABYTE B560 AORUS PRO AX is a feature-rich motherboard designed for gamers and content creators. It supports Intel's latest 11th and 10th Gen Core processors and offers great performance and stability. With PCIe 4.0 support, advanced power delivery, and fast networking capabilities, this motherboard is a reliable choice for your gaming rig or workstation. It also comes with RGB lighting and plenty of connectivity options for a seamless build experience.",
+          "keyFeatures": {
+            "Brand": "GIGABYTE",
+            "Model": "B560 AORUS PRO AX",
+            "Chipset": "Intel B560",
+            "MemorySlots": "4",
+            "MaxMemory": "128GB",
+            "PCIeSlots": "2 x16, 1 x8, 2 x1",
+            "USBPorts": "USB 3.2 Gen 2, USB 3.2 Gen 1, USB 2.0"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "GamerX123",
+              "rating": 4.7,
+              "comment": "A solid motherboard with plenty of features for gaming and more."
+            },
+            {
+              "username": "TechEnthusiast789",
+              "rating": 4.5,
+              "comment": "The B560 AORUS PRO AX is a great value motherboard for Intel builds."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/Gigabyte%20GA-H110M%20S2PH-DDR4-500x500.jpg",
+          "productName": "ASRock X570 Phantom Gaming X",
+          "category": "Motherboard",
+          "price": 249.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The ASRock X570 Phantom Gaming X is a high-end motherboard that caters to enthusiasts and overclockers. It supports AMD's Ryzen 5000 Series processors and offers exceptional performance and stability. With PCIe 4.0 support, premium power phases, and robust cooling solutions, this motherboard is perfect for pushing your system to its limits. It also comes with impressive RGB lighting and extensive customization options for a visually stunning build.",
+          "keyFeatures": {
+            "Brand": "ASRock",
+            "Model": "X570 Phantom Gaming X",
+            "Chipset": "AMD X570",
+            "MemorySlots": "4",
+            "MaxMemory": "128GB",
+            "PCIeSlots": "3 x16, 2 x1",
+            "USBPorts": "USB 3.2 Gen 2, USB 3.2 Gen 1, USB 2.0"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "GamingPro789",
+              "rating": 4.9,
+              "comment": "The X570 Phantom Gaming X is a beast for gaming and overclocking."
+            },
+            {
+              "username": "TechEnthusiast123",
+              "rating": 4.7,
+              "comment": "ASRock nailed it with this feature-packed X570 motherboard."
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-8gb-ddr4-3200mhz/vengeance-8gb-ddr4-3200mhz-01-500x500.webp",
+          "productName": "Corsair Vengeance RGB Pro 16GB",
+          "category": "RAM",
+          "price": 129.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The Corsair Vengeance RGB Pro is a stylish and high-performance memory kit that not only offers excellent speed and stability but also adds a touch of RGB lighting to your build. With a capacity of 16GB and a clock speed of 3200MHz, this RAM kit is perfect for gaming and multitasking. It's also compatible with most modern motherboards and supports XMP 2.0 for easy overclocking. If you want a memory kit that performs well and looks great, the Vengeance RGB Pro is a solid choice.",
+          "keyFeatures": {
+            "Brand": "Corsair",
+            "Series": "Vengeance RGB Pro",
+            "Capacity": "16GB (2 x 8GB)",
+            "Speed": "3200MHz",
+            "CASLatency": "16",
+            "Voltage": "1.35V",
+            "RGB": "Yes"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "GamerGirl",
+              "rating": 5,
+              "comment": "The RGB lighting is beautiful, and the performance is top-notch."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4.8,
+              "comment": "Corsair Vengeance RAM never disappoints. It's fast and reliable."
+            }
+          ]
+        }, 
+        {
+          "id": 202,
+          "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h510m-hdv-m-2/h510m-hdv-m-2-500x500.jpg",
+          "productName": "G.SKILL Trident Z RGB 32GB",
+          "category": "RAM",
+          "price": 179.99,
+          "status": "In Stock",
+          "rating": 4.7,
+          "description": "The G.SKILL Trident Z RGB is a high-performance memory kit with stunning RGB lighting effects. With a capacity of 32GB (2 x 16GB) and a clock speed of 3600MHz, this RAM kit offers excellent performance for gaming and productivity tasks. It's optimized for Intel and AMD platforms, providing seamless compatibility. The Trident Z RGB series also supports XMP 2.0 for easy overclocking and comes with stylish heatspreaders to keep temperatures in check.",
+          "keyFeatures": {
+            "Brand": "G.SKILL",
+            "Series": "Trident Z RGB",
+            "Capacity": "32GB (2 x 16GB)",
+            "Speed": "3600MHz",
+            "CASLatency": "16",
+            "Voltage": "1.35V",
+            "RGB": "Yes"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "GamerX789",
+              "rating": 4.8,
+              "comment": "The Trident Z RGB RAM not only performs well but also looks amazing."
+            },
+            {
+              "username": "TechEnthusiast456",
+              "rating": 4.6,
+              "comment": "Great RAM kit with reliable performance and mesmerizing RGB lighting."
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-32gb-ddr4/jetram-32gb-ddr4-01-500x500.webp",
+          "productName": "Corsair Vengeance LPX 32GB",
+          "category": "RAM",
+          "price": 169.99,
+          "status": "In Stock",
+          "rating": 4.6,
+          "description": "The Corsair Vengeance LPX is a high-quality memory kit that focuses on performance and compatibility. With a capacity of 32GB (2 x 16GB) and a clock speed of 3200MHz, this RAM kit is suitable for gaming and demanding applications. It's built with a low-profile design to fit in small form-factor builds and has been extensively tested for stability. Whether you're a gamer or a content creator, the Vengeance LPX offers reliable and efficient memory performance.",
+          "keyFeatures": {
+            "Brand": "Corsair",
+            "Series": "Vengeance LPX",
+            "Capacity": "32GB (2 x 16GB)",
+            "Speed": "3200MHz",
+            "CASLatency": "16",
+            "Voltage": "1.35V",
+            "RGB": "No"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "GamingPro123",
+              "rating": 4.7,
+              "comment": "Corsair Vengeance LPX is reliable RAM with no fuss."
+            },
+            {
+              "username": "TechEnthusiast789",
+              "rating": 4.5,
+              "comment": "A solid choice for stable and high-speed memory performance."
+            }
+          ]
+        },
+        {
+          "id": 301,
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/kratos-m1-750b/kratos-m1-750b-01-500x500.jpg",
+          "productName": "EVGA SuperNOVA 750 G+",
+          "category": "Power Supply Unit",
+          "price": 119.99,
+          "status": "In Stock",
+          "rating": 4.9,
+          "description": "The EVGA SuperNOVA 750 G+ is a high-quality power supply unit that delivers reliable and stable power to your components. With 80 Plus Gold certification, it boasts high efficiency and produces less heat, ensuring a longer lifespan for your PSU. Its fully modular design allows for easy cable management, resulting in a cleaner and more organized build. Whether you're building a gaming rig or a workstation, the SuperNOVA 750 G+ is an excellent choice for powering your system.",
+          "keyFeatures": {
+            "Brand": "EVGA",
+            "Series": "SuperNOVA G+",
+            "Wattage": "750W",
+            "Efficiency": "80 Plus Gold",
+            "Modular": "Fully Modular",
+            "FanSize": "135mm",
+            "Warranty": "10 Years"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.9,
+          "reviews": [
+            {
+              "username": "PCBuilderPro",
+              "rating": 5,
+              "comment": "One of the best PSUs I've used. Highly recommended."
+            },
+            {
+              "username": "TechGeek",
+              "rating": 4.9,
+              "comment": "The EVGA SuperNOVA G+ series is a top-tier choice for power-hungry systems."
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/cooler-master/xg850-plus-platinum/xg850-plus-platinum-01-500x500.webp",
+          "productName": "Corsair RM850x",
+          "category": "Power Supply Unit",
+          "price": 139.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The Corsair RM850x is a reliable and efficient power supply unit that delivers 850W of continuous power. It features 80 Plus Gold certification, ensuring high efficiency and lower operating costs. The PSU comes with a fully modular design, allowing for easy cable management and a clean build. The Zero RPM fan mode ensures quiet operation during low to medium loads, and the 135mm fluid dynamic bearing fan provides excellent cooling under heavy loads. The RM850x is a great choice for high-performance systems and gaming rigs.",
+          "keyFeatures": {
+            "Brand": "Corsair",
+            "Model": "RM850x",
+            "Wattage": "850W",
+            "Efficiency": "80 Plus Gold",
+            "Modular": "Fully Modular",
+            "FanSize": "135mm",
+            "Warranty": "10 Years"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "PCBuilderPro123",
+              "rating": 4.9,
+              "comment": "Corsair RM850x is a solid PSU with great performance and reliability."
+            },
+            {
+              "username": "TechGeek456",
+              "rating": 4.7,
+              "comment": "The 850W capacity and fully modular design make cable management a breeze."
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/cooler-master/mwe-450w-v2/mwe-450w-v2-500x500.jpg",
+          "productName": "EVGA Supernova 850 G3",
+          "category": "Power Supply Unit",
+          "price": 149.99,
+          "status": "In Stock",
+          "rating": 4.9,
+          "description": "The EVGA Supernova 850 G3 is a high-performance power supply unit built for gaming and enthusiast systems. With 850W of power, it can handle power-hungry components and multiple GPUs with ease. The PSU is 80 Plus Gold certified for excellent efficiency and comes with a fully modular design, allowing for easy cable management. The 130mm double ball bearing fan ensures efficient cooling and low noise levels. If you need a reliable and powerful PSU for your gaming rig or workstation, the Supernova 850 G3 is a top-notch choice.",
+          "keyFeatures": {
+            "Brand": "EVGA",
+            "Model": "Supernova 850 G3",
+            "Wattage": "850W",
+            "Efficiency": "80 Plus Gold",
+            "Modular": "Fully Modular",
+            "FanSize": "130mm",
+            "Warranty": "7 Years"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.9,
+          "reviews": [
+            {
+              "username": "GamerX789",
+              "rating": 5,
+              "comment": "The EVGA Supernova 850 G3 has been flawless. Highly recommended."
+            },
+            {
+              "username": "TechEnthusiast789",
+              "rating": 4.9,
+              "comment": "The PSU provides stable power and runs quietly even under load."
+            }
+          ]
+        },
+        {
+          "id": 401,
+          "image": "https://www.startech.com.bd/image/cache/catalog/networking/router/asus/ac1500/ac59u-1-500x500.jpg",
+          "productName": "Samsung 970 EVO Plus 500GB NVMe SSD",
+          "category": "Storage Device",
+          "price": 89.99,
+          "status": "In Stock",
+          "rating": 4.9,
+          "description": "The Samsung 970 EVO Plus is a blazing-fast NVMe SSD that offers incredible read and write speeds. With a capacity of 500GB, it provides ample storage for your operating system, applications, and games. The 970 EVO Plus is built with Samsung's V-NAND technology and a robust Phoenix controller, ensuring durability and reliability. Whether you're a gamer or a content creator, this SSD will significantly improve your system's overall performance.",
+          "keyFeatures": {
+            "Brand": "Samsung",
+            "Series": "970 EVO Plus",
+            "Capacity": "500GB",
+            "Interface": "NVMe PCIe Gen 3.0 x4",
+            "ReadSpeed": "3500 MB/s",
+            "WriteSpeed": "3300 MB/s",
+            "FormFactor": "M.2"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.9,
+          "reviews": [
+            {
+              "username": "GamingNinja",
+              "rating": 5,
+              "comment": "The Samsung 970 EVO Plus is a game-changer. Lightning-fast speed."
+            },
+            {
+              "username": "ContentCreator",
+              "rating": 4.9,
+              "comment": "My video editing workflow improved significantly after using this SSD."
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6602t/as6602t-01-500x500.webp",
+          "productName": "Western Digital Black SN750 1TB NVMe SSD",
+          "category": "Storage Device",
+          "price": 189.99,
+          "status": "In Stock",
+          "rating": 4.7,
+          "description": "The Western Digital Black SN750 is a high-performance NVMe SSD designed for gamers and professionals. With a capacity of 1TB, it provides ample space for your operating system, applications, and games. The SSD offers read speeds of up to 3470 MB/s and write speeds of up to 3000 MB/s, ensuring fast load times and smooth performance. It's built with Western Digital's 3D NAND technology and features a sleek heatsink design for improved cooling during intense usage.",
+          "keyFeatures": {
+            "Brand": "Western Digital",
+            "Series": "Black SN750",
+            "Capacity": "1TB",
+            "Interface": "NVMe PCIe Gen 3.0 x4",
+            "ReadSpeed": "3470 MB/s",
+            "WriteSpeed": "3000 MB/s",
+            "FormFactor": "M.2"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "GamingNinja123",
+              "rating": 4.8,
+              "comment": "The WD Black SN750 delivers impressive read and write speeds."
+            },
+            {
+              "username": "ContentCreator456",
+              "rating": 4.6,
+              "comment": "A great choice for faster file transfers and quicker load times."
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "image": "https://www.startech.com.bd/image/cache/catalog/ssd/gigabyte/120gb/120gb-ssd-228x228.jpg",
+          "productName": "Samsung 980 PRO 500GB NVMe SSD",
+          "category": "Storage Device",
+          "price": 129.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The Samsung 980 PRO is a blazing-fast NVMe SSD that offers exceptional performance for gamers and content creators. With a capacity of 500GB, it provides ample space for your OS and frequently accessed applications. The SSD delivers read speeds of up to 6900 MB/s and write speeds of up to 5000 MB/s, making it one of the fastest drives available. It's built with Samsung's V-NAND and Elpis controller, ensuring high reliability and durability for intensive workloads.",
+          "keyFeatures": {
+            "Brand": "Samsung",
+            "Series": "980 PRO",
+            "Capacity": "500GB",
+            "Interface": "NVMe PCIe Gen 4.0 x4",
+            "ReadSpeed": "6900 MB/s",
+            "WriteSpeed": "5000 MB/s",
+            "FormFactor": "M.2"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "GamingPro789",
+              "rating": 4.9,
+              "comment": "The Samsung 980 PRO is an absolute beast. Crazy fast speeds."
+            },
+            {
+              "username": "ContentCreator789",
+              "rating": 4.8,
+              "comment": "The SSD significantly improved my workflow. Impressive performance."
+            }
+          ]
+        },
+        {
+          "id": 501,
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/philips/193v/193v-228x228.png",
+          "productName": "ASUS ROG Swift PG279Q 27\"",
+          "category": "Monitor",
+          "price": 599.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The ASUS ROG Swift PG279Q is a premium gaming monitor with a 27-inch IPS panel and a refresh rate of 165Hz. It boasts a WQHD (2560x1440) resolution, providing sharp and detailed visuals for an immersive gaming experience. With NVIDIA G-SYNC technology, it eliminates screen tearing and stuttering, ensuring smooth gameplay. The monitor also features an ergonomic design with tilt, swivel, pivot, and height adjustments for a comfortable viewing position. If you're a serious gamer, the ROG Swift PG279Q is the perfect choice for your setup.",
+          "keyFeatures": {
+            "Brand": "ASUS",
+            "Series": "ROG Swift",
+            "DisplaySize": "27\"",
+            "PanelType": "IPS",
+            "Resolution": "2560x1440 (WQHD)",
+            "RefreshRate": "165Hz",
+            "AdaptiveSync": "NVIDIA G-SYNC",
+            "ResponseTime": "4ms"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "GamingPro",
+              "rating": 5,
+              "comment": "The ROG Swift PG279Q is hands down the best gaming monitor I've used."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4.8,
+              "comment": "The colors and refresh rate on this monitor are stunning. No regrets."
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-228x228.jpg",
+          "productName": "LG 27GL850-B 27\"",
+          "category": "Monitor",
+          "price": 499.99,
+          "status": "In Stock",
+          "rating": 4.7,
+          "description": "The LG 27GL850-B is a high-quality gaming monitor with a 27-inch IPS panel and a fast 144Hz refresh rate. It features a QHD (2560x1440) resolution, providing sharp visuals and great color accuracy. The monitor also supports NVIDIA G-SYNC and AMD FreeSync, ensuring tear-free and smooth gameplay. With a 1ms response time and excellent viewing angles, it's perfect for competitive gaming and immersive experiences. The monitor's ergonomic stand allows for height, tilt, and pivot adjustments, ensuring a comfortable setup.",
+          "keyFeatures": {
+            "Brand": "LG",
+            "Model": "27GL850-B",
+            "DisplaySize": "27\"",
+            "PanelType": "IPS",
+            "Resolution": "2560x1440 (QHD)",
+            "RefreshRate": "144Hz",
+            "AdaptiveSync": "NVIDIA G-SYNC, AMD FreeSync",
+            "ResponseTime": "1ms"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "GamingPro123",
+              "rating": 4.8,
+              "comment": "The LG 27GL850-B is a solid gaming monitor with vibrant colors."
+            },
+            {
+              "username": "TechEnthusiast456",
+              "rating": 4.6,
+              "comment": "The 144Hz refresh rate and 1ms response time are perfect for gaming."
+            }
+          ]
+        },
+        {
+          "id": 503,
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mp400-b/lg-22mp400-b-01-500x500.jpg",
+          "productName": "ASUS TUF Gaming VG27AQ",
+          "category": "Monitor",
+          "price": 389.99,
+          "status": "In Stock",
+          "rating": 4.6,
+          "description": "The ASUS TUF Gaming VG27AQ is a versatile gaming monitor that offers a 27-inch IPS panel with a fast 165Hz refresh rate. With a QHD (2560x1440) resolution and support for both NVIDIA G-SYNC and AMD FreeSync, it ensures smooth and tear-free gaming experiences. The monitor also comes with ASUS's Extreme Low Motion Blur (ELMB) technology for reduced motion blur in fast-paced games. Additionally, it features ASUS's exclusive GamePlus and GameVisual technologies for enhancing gaming performance and visuals.",
+          "keyFeatures": {
+            "Brand": "ASUS",
+            "Model": "TUF Gaming VG27AQ",
+            "DisplaySize": "27\"",
+            "PanelType": "IPS",
+            "Resolution": "2560x1440 (QHD)",
+            "RefreshRate": "165Hz",
+            "AdaptiveSync": "NVIDIA G-SYNC, AMD FreeSync",
+            "ResponseTime": "1ms"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "GamerX789",
+              "rating": 4.7,
+              "comment": "ASUS TUF VG27AQ is a fantastic monitor for gaming and general use."
+            },
+            {
+              "username": "TechEnthusiast789",
+              "rating": 4.5,
+              "comment": "The 165Hz refresh rate and adaptive sync make gaming buttery smooth."
+            }
+          ]
+        },
+        {
+          "id": 601,
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/l22e-30/l22e-30-01-500x500.jpg",
+          "productName": "MSI GeForce RTX 3070 Gaming X Trio",
+          "category": "Others",
+          "price": 749.99,
+          "status": "In Stock",
+          "rating": 4.9,
+          "description": "The MSI GeForce RTX 3070 Gaming X Trio is a high-performance graphics card that brings ray tracing and AI-powered DLSS technology to your gaming experience. With 8GB of GDDR6 memory and an enhanced cooling solution, this GPU delivers smooth and immersive gameplay. The Gaming X Trio design not only looks great with its RGB lighting but also keeps the card cool under heavy loads. If you're looking for a graphics card that can handle the latest AAA titles and more, the RTX 3070 Gaming X Trio won't disappoint.",
+          "keyFeatures": {
+            "Brand": "MSI",
+            "Model": "GeForce RTX 3070 Gaming X Trio",
+            "VRAM": "8GB GDDR6",
+            "BaseClock": "1500 MHz",
+            "BoostClock": "1830 MHz",
+            "CUDA": "5888",
+            "Ports": "3 x DisplayPort, 1 x HDMI"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.9,
+          "reviews": [
+            {
+              "username": "GamerX",
+              "rating": 5,
+              "comment": "The RTX 3070 Gaming X Trio is a beast. Crushes games at 1440p."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4.9,
+              "comment": "One of the best RTX 3070 models out there. MSI did a fantastic job."
+            }
+          ]
+        },
+        {
+          "id": 602,
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/s22e-20/s22e-20-01-500x500.webp",
+          "productName": "Logitech G Pro X Mechanical Gaming Keyboard",
+          "category": "Others",
+          "price": 129.99,
+          "status": "In Stock",
+          "rating": 4.8,
+          "description": "The Logitech G Pro X is a high-performance mechanical gaming keyboard designed for eSports enthusiasts and professional gamers. It features customizable RGB lighting per key and offers swappable mechanical switches, allowing you to choose the type of switches that suit your playstyle. With programmable macros and a detachable cable for easy transport, this keyboard is perfect for on-the-go gaming. The G Pro X is built with durable and reliable materials, ensuring longevity even under heavy use.",
+          "keyFeatures": {
+            "Brand": "Logitech",
+            "Model": "G Pro X",
+            "Switches": "Swappable Mechanical Switches",
+            "Lighting": "RGB per key",
+            "Programmable": "Yes",
+            "Cable": "Detachable"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "GamingPro789",
+              "rating": 4.9,
+              "comment": "The G Pro X keyboard is a game-changer. Love the swappable switches."
+            },
+            {
+              "username": "TechEnthusiast789",
+              "rating": 4.7,
+              "comment": "Logitech hit the mark with this versatile and durable gaming keyboard."
+            }
+          ]
+        }
+      ]
+  }
+  
