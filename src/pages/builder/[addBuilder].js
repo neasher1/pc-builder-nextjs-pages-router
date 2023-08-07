@@ -1,15 +1,23 @@
-import Link from "next/link";
 import { useRouter } from "next/router";
+import Link from "next/link";
+import { useDispatch } from "react-redux";
+import { addComponent } from "../redux/feature/builder/builderSlice";
 
-const CategoriesProduct = ({ products }) => {
+const AddBuilder = ({ products }) => {
     const router = useRouter();
-    const category = router.query.category;
+    const category = router.query.addBuilder;
 
-    const filteredProducts = products.filter(
+    const filteredProducts = products?.filter(
         (product) => product.category === category
     );
 
-    console.log(filteredProducts);
+    // console.log(filteredProducts);
+    const dispatch = useDispatch();
+
+    const handleAddToBuilder = (selectedCategory, selectedComponent) => {
+        dispatch(addComponent({ category: selectedCategory, component: selectedComponent }));
+        console.log(selectedCategory, selectedComponent);
+    };
 
     return (
         <div className="min-h-screen">
@@ -25,7 +33,7 @@ const CategoriesProduct = ({ products }) => {
                             <p>status: {product?.status}</p>
                             <p>rating: {product?.rating}</p>
                             <div className="card-actions">
-                                <Link href={`/details/${product._id}`} className="btn btn-accent text-white tracking-widest">View More!</Link>
+                                <Link href={`/pc-builder`} onClick={() => handleAddToBuilder(category, product)} className="btn btn-accent text-white tracking-widest">Add to Builder</Link>
                             </div>
                         </div>
                     </div>)
@@ -35,7 +43,8 @@ const CategoriesProduct = ({ products }) => {
     );
 };
 
-export default CategoriesProduct;
+export default AddBuilder;
+
 
 //SSR
 export const getServerSideProps = async () => {
